@@ -15,7 +15,6 @@ Validaciones inteligentes: La aplicación te avisa si el campo de texto está va
 Sorteo automático y justo: Una vez que tengas al menos dos participantes, el sistema elige un amigo secreto de manera aleatoria.
 ![alt text](./assets/image-2.png)
 
-
 Ademas se comparte evidencia de codigo Desarrollado:
 ![alt text](./assets/image-3.png)
 ![alt text](./assets/image-4.png)
